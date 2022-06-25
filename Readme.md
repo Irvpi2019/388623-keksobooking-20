@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ирина Пинчук](https://up.htmlacademy.ru/javascript/20/user/388623).
-* Наставник: `Неизвестно`.
+* Наставник: [Кексобот].
 
 ---
 
